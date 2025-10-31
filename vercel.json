@@ -20,9 +20,6 @@
   "buildCommand": "npm run build",
   "outputDirectory": "build",
   "framework": "create-react-app",
-  "engines": {
-    "node": "20.x"
-  },
   "github": {
     "silent": true
   }
